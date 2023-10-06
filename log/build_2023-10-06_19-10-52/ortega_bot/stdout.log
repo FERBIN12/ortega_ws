@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/ortega_bot/ortega_bot.egg-info
+writing ../../build/ortega_bot/ortega_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/ortega_bot/ortega_bot.egg-info/dependency_links.txt
+writing requirements to ../../build/ortega_bot/ortega_bot.egg-info/requires.txt
+writing top-level names to ../../build/ortega_bot/ortega_bot.egg-info/top_level.txt
+writing manifest file '../../build/ortega_bot/ortega_bot.egg-info/SOURCES.txt'
+reading manifest file '../../build/ortega_bot/ortega_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/ortega_bot/ortega_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kanja-koduki/ortega_ws/build/ortega_bot/build
+creating /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib
+creating /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib/ortega_bot
+copying ortega_bot/__init__.py -> /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib/ortega_bot
+running install
+running install_lib
+creating /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot
+copying /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib/ortega_bot/__init__.py -> /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot
+byte-compiling /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/kanja-koduki/ortega_ws/install/ortega_bot/share/ament_index
+creating /home/kanja-koduki/ortega_ws/install/ortega_bot/share/ament_index/resource_index
+creating /home/kanja-koduki/ortega_ws/install/ortega_bot/share/ament_index/resource_index/packages
+copying resource/ortega_bot -> /home/kanja-koduki/ortega_ws/install/ortega_bot/share/ament_index/resource_index/packages
+copying package.xml -> /home/kanja-koduki/ortega_ws/install/ortega_bot/share/ortega_bot
+running install_egg_info
+Copying ../../build/ortega_bot/ortega_bot.egg-info to /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/kanja-koduki/ortega_ws/build/ortega_bot/install.log'

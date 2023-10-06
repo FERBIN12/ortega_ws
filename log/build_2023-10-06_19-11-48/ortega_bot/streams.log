@@ -1,0 +1,32 @@
+[2.062s] Invoking command in '/home/kanja-koduki/ortega_ws/src/ortega_bot': PYTHONPATH=/home/kanja-koduki/ortega_ws/build/ortega_bot/prefix_override:/home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ortega_bot build --build-base /home/kanja-koduki/ortega_ws/build/ortega_bot/build install --record /home/kanja-koduki/ortega_ws/build/ortega_bot/install.log --single-version-externally-managed
+[2.544s] running egg_info
+[2.578s] writing ../../build/ortega_bot/ortega_bot.egg-info/PKG-INFO
+[2.579s] writing dependency_links to ../../build/ortega_bot/ortega_bot.egg-info/dependency_links.txt
+[2.579s] writing requirements to ../../build/ortega_bot/ortega_bot.egg-info/requires.txt
+[2.579s] writing top-level names to ../../build/ortega_bot/ortega_bot.egg-info/top_level.txt
+[2.648s] reading manifest file '../../build/ortega_bot/ortega_bot.egg-info/SOURCES.txt'
+[2.649s] writing manifest file '../../build/ortega_bot/ortega_bot.egg-info/SOURCES.txt'
+[2.650s] running build
+[2.650s] running build_py
+[2.650s] running install
+[2.650s] /home/kanja-koduki/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[2.651s] !!
+[2.651s] 
+[2.651s]         ********************************************************************************
+[2.651s]         Please avoid running ``setup.py`` directly.
+[2.651s]         Instead, use pypa/build, pypa/installer or other
+[2.651s]         standards-based tools.
+[2.651s] 
+[2.651s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[2.651s]         ********************************************************************************
+[2.651s] 
+[2.652s] !!
+[2.652s]   self.initialize_options()
+[2.661s] running install_lib
+[2.699s] running install_data
+[2.734s] running install_egg_info
+[2.772s] removing '/home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[2.772s] Copying ../../build/ortega_bot/ortega_bot.egg-info to /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot-0.0.0-py3.10.egg-info
+[2.773s] running install_scripts
+[3.100s] writing list of installed files to '/home/kanja-koduki/ortega_ws/build/ortega_bot/install.log'
+[3.148s] Invoked command in '/home/kanja-koduki/ortega_ws/src/ortega_bot' returned '0': PYTHONPATH=/home/kanja-koduki/ortega_ws/build/ortega_bot/prefix_override:/home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ortega_bot build --build-base /home/kanja-koduki/ortega_ws/build/ortega_bot/build install --record /home/kanja-koduki/ortega_ws/build/ortega_bot/install.log --single-version-externally-managed
