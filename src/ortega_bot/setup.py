@@ -20,6 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'publisher_node =ortega_bot.publisher:main',
+            'subscriber_node=ortega_bot.subscriber:main'
         ],
     },
 )

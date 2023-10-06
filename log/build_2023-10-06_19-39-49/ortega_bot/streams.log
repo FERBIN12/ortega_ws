@@ -1,0 +1,41 @@
+[2.168s] Invoking command in '/home/kanja-koduki/ortega_ws/src/ortega_bot': PYTHONPATH=/home/kanja-koduki/ortega_ws/build/ortega_bot/prefix_override:/home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ortega_bot build --build-base /home/kanja-koduki/ortega_ws/build/ortega_bot/build install --record /home/kanja-koduki/ortega_ws/build/ortega_bot/install.log --single-version-externally-managed
+[2.633s] running egg_info
+[2.669s] writing ../../build/ortega_bot/ortega_bot.egg-info/PKG-INFO
+[2.669s] writing dependency_links to ../../build/ortega_bot/ortega_bot.egg-info/dependency_links.txt
+[2.670s] writing entry points to ../../build/ortega_bot/ortega_bot.egg-info/entry_points.txt
+[2.670s] writing requirements to ../../build/ortega_bot/ortega_bot.egg-info/requires.txt
+[2.670s] writing top-level names to ../../build/ortega_bot/ortega_bot.egg-info/top_level.txt
+[2.741s] reading manifest file '../../build/ortega_bot/ortega_bot.egg-info/SOURCES.txt'
+[2.742s] writing manifest file '../../build/ortega_bot/ortega_bot.egg-info/SOURCES.txt'
+[2.743s] running build
+[2.743s] running build_py
+[2.743s] copying ortega_bot/subscriber.py -> /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib/ortega_bot
+[2.743s] copying ortega_bot/publisher.py -> /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib/ortega_bot
+[2.744s] running install
+[2.744s] /home/kanja-koduki/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[2.744s] !!
+[2.744s] 
+[2.744s]         ********************************************************************************
+[2.745s]         Please avoid running ``setup.py`` directly.
+[2.745s]         Instead, use pypa/build, pypa/installer or other
+[2.745s]         standards-based tools.
+[2.745s] 
+[2.745s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[2.745s]         ********************************************************************************
+[2.746s] 
+[2.746s] !!
+[2.746s]   self.initialize_options()
+[2.754s] running install_lib
+[2.790s] copying /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib/ortega_bot/subscriber.py -> /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot
+[2.790s] copying /home/kanja-koduki/ortega_ws/build/ortega_bot/build/lib/ortega_bot/publisher.py -> /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot
+[2.791s] byte-compiling /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot/subscriber.py to subscriber.cpython-310.pyc
+[2.792s] byte-compiling /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot/publisher.py to publisher.cpython-310.pyc
+[2.793s] running install_data
+[2.827s] running install_egg_info
+[2.863s] removing '/home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[2.864s] Copying ../../build/ortega_bot/ortega_bot.egg-info to /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages/ortega_bot-0.0.0-py3.10.egg-info
+[2.865s] running install_scripts
+[3.205s] Installing publisher_node script to /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/ortega_bot
+[3.205s] Installing subscriber_node script to /home/kanja-koduki/ortega_ws/install/ortega_bot/lib/ortega_bot
+[3.206s] writing list of installed files to '/home/kanja-koduki/ortega_ws/build/ortega_bot/install.log'
+[3.254s] Invoked command in '/home/kanja-koduki/ortega_ws/src/ortega_bot' returned '0': PYTHONPATH=/home/kanja-koduki/ortega_ws/build/ortega_bot/prefix_override:/home/kanja-koduki/ortega_ws/install/ortega_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ortega_bot build --build-base /home/kanja-koduki/ortega_ws/build/ortega_bot/build install --record /home/kanja-koduki/ortega_ws/build/ortega_bot/install.log --single-version-externally-managed
